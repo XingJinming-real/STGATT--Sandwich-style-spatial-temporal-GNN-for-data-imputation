@@ -1,7 +1,7 @@
 STGATT: Sandwich-style spatial temporal GNN for data imputation
 ---
 ### Architecture
-
+![STGATT](STGATT.png)
 
 ### Experiments
 
